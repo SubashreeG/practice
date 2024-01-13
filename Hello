@@ -10,3 +10,4 @@ Rebase 2 commit
 Cherry pick commit 1
 Cherry pick commit 2
 >>>>>>> c4753a0 (2nd cherry pick)
+Merge 1
